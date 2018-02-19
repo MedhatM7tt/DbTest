@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DbTest</string>
+    <string name="tt">text <u>view 3</u><i>hello</i></string>
+</resources>
